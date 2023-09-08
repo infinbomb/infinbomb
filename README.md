@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @infinbomb
-- 👀 I’m interested in Coding for Fun
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Charles
+- 👀 I’m interested in Coding, Swimming, Running, Lifting
+- 🌱 I’m currently learning Java, Python, HTML, C++
 - 📫 How to reach me @charleslin__ on Instagram
