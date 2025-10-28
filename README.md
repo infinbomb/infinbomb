@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Charles
-- 👀 I’m interested in Coding, Swimming, Running, Lifting
-- 🌱 I’m currently learning Java, Python, HTML, C++
-- 📫 How to reach me @charleslin__ on Instagram
+
